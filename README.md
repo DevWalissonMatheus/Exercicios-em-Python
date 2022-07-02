@@ -1,0 +1,1 @@
+Respositório para fazer alguns exercicios usando Python.
