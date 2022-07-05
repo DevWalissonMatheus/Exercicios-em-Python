@@ -23,6 +23,6 @@ if prod1 < prod2 and prod1 < prod3:
 elif prod2 < prod1 and prod2 < prod3:
     print(f'Recomendamos o segundo produto custando {prod2:.2f} reais')
 elif prod3 < prod1 and prod3 < prod2:
-    print(f'Recomendamos o terceiro produto custando {prod2:.2f} reais')
+    print(f'Recomendamos o terceiro produto custando {prod3:.2f} reais')
 else:
     print('Todos os produtos custão o mesmo valor.')
